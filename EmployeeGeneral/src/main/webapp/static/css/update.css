@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+
+p{
+	margin-top: 120px;
+	margin-left: 710px;
+	width: 250px;
+	font-size: 20px;
+	background-color: #F4A460;
+	
+}
+form{
+	/*  margin-top: 90px; */
+	/*margin-left: 800px; */
+	border: 1px solid;
+	width: 550px;
+	 height: 180px;
+	margin-top: 130px;
+    margin-left: 560px;	
+    background-color:#AFEEEE;
+}
+body{
+background-color: #c0c0c0;	
+}
+form [type="text"]{
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 25px;
+	margin-right: 25px;
+	padding: 5px;
+}
+.logi1{
+	float: left;	
+}
+.logi5{
+	float: left;	
+}
+.logi3{
+	float: left;	
+}
+.logi2{
+	float: right;
+}
+.logi4{
+	float: right;
+}
+.logi6{
+	float: right;
+}
+.btns [type="submit"]{
+	/*display: inline-block;*/
+	position: absolute;
+    margin-top: 60px;
+	margin-left: 9px;
+	padding: 10px 20px;
+    background-color: #c0c0c0;
+	  color: red;
+}
+.one{
+	margin-top: 90px;
+margin-left: 590px;	
+font-family:  "Lucida Console", "Courier New", monospace;
+	font-weight: bold;
+	font-size: 30px;
+}
+.second{
+	
+	margin-left: 660px;
+	font-family:  "Lucida Console", "Courier New", monospace;
+	font-weight: bold;
+	font-size: 30px;
+}

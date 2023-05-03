@@ -1,0 +1,32 @@
+@charset "UTF-8";
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+img{
+	margin-top: 25px;
+	 width: 1400px;
+     height: 800px;
+	margin-left: 180px;
+	
+	
+}
+.bb{
+	
+	position:relative;
+	padding: 15px;
+	bottom: 100px;
+	left: 140px;
+  border: 1px solid red; 
+  background-color: #cbfefe;
+}
+body{
+	background-color: #c0c0c0;	
+	overflow: hidden;
+	/*overflow-x: hidden;*/
+	
+}
+.down{	
+	margin-top: 0;
+}
